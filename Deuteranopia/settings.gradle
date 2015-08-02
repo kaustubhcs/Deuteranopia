@@ -1,0 +1,4 @@
+include ':app'
+include ':openCVLibrary300'
+//include ':libraries:opencv'
+include ':openCVTutorial3CameraControl'
